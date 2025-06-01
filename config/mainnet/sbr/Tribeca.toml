@@ -55,13 +55,13 @@ add the link to the discussion thread and create a proposal.
 discussion = { required = true, link = "https://github.com/saber-hq/governance/issues/new?assignees=&labels=proposal&template=governance-proposal.md&title=%5BPROPOSAL%5D", prefix = "https://github.com/saber-hq/governance/issues/" }
 
 [links]
-website = "https://saber.so"
-app = "https://app.saber.so"
-forum = "https://github.com/saber-hq/governance/discussions/"
-discord = "https://chat.saber.so"
-github = "https://github.com/saber-hq"
-medium = "https://blog.saber.so"
-twitter = "https://twitter.com/saber_hq"
+website = "https://saberdao.so"
+app = "https://saberdao.so/saber"
+# forum = "https://github.com/saber-hq/governance/discussions/"
+discord = "https://discord.gg/GBNtJb7tBy"
+github = "https://github.com/saberdao"
+# medium = "https://blog.saber.so"
+twitter = "https://x.com/thesaberdao"
 
 [quarry]
 rewarder = "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk"
