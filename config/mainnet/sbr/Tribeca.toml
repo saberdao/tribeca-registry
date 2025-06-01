@@ -22,9 +22,6 @@ max-stake-duration = 157_680_000 # 5 years
 proposal-activation-min-votes = 10_000_000_000000 # 10M veSBR / 1M SBR
 whitelist-enabled = true
 
-[site]
-aliases = ["dao.saber.so"]
-
 # DAO addresses to track.
 [addresses]
 governor = "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4"
