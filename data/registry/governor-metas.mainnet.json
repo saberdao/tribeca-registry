@@ -1,31 +1,6 @@
 [
   {
     "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
-    "addresses": {
-      "electorate": {
-        "address": "4tr9CDSgZRLYPGdcsm9PztaGSfJtX5CEmqDbEbvCTX2G",
-        "label": "Electorate"
-      },
-      "emergency-dao": {
-        "address": "F9TxY3Bj1tWebTHZPJC323WK8KwAe3W6XKkg2hzCdsKM",
-        "label": "Emergency DAO",
-        "type": "smart-wallet"
-      },
-      "executive-council": {
-        "address": "ByB3GkPHuUBmzcNbY1Ed7xK2uMkEkNsxTwjMGAFeLsbw",
-        "label": "Executive Council",
-        "type": "smart-wallet"
-      },
-      "governor": {
-        "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
-        "label": "Governor"
-      },
-      "smart-wallet": {
-        "address": "F9TxY3Bj1tWebTHZPJC323WK8KwAe3W6XKkg2hzCdsKM",
-        "label": "Smart Wallet",
-        "type": "smart-wallet"
-      }
-    },
     "description": "AMM for mean-reverting trading pairs on Solana.",
     "gauge": {
       "gaugemeister": "28ZDtf6d2wsYhBvabTxUHTRT6MDxqjmqR7RMCp348tyU"
