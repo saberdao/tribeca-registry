@@ -22,26 +22,6 @@ max-stake-duration = 157_680_000 # 5 years
 proposal-activation-min-votes = 10_000_000_000000 # 10M veSBR / 1M SBR
 whitelist-enabled = true
 
-# DAO addresses to track.
-[addresses]
-governor = "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4"
-electorate = "4tr9CDSgZRLYPGdcsm9PztaGSfJtX5CEmqDbEbvCTX2G"
-
-[addresses.smart-wallet]
-label = "Smart Wallet"
-type = "smart-wallet"
-address = "F9TxY3Bj1tWebTHZPJC323WK8KwAe3W6XKkg2hzCdsKM"
-
-[addresses.executive-council]
-label = "Executive Council"
-type = "smart-wallet"
-address = "ByB3GkPHuUBmzcNbY1Ed7xK2uMkEkNsxTwjMGAFeLsbw"
-
-[addresses.emergency-dao]
-label = "Emergency DAO"
-type = "smart-wallet"
-address = "F9TxY3Bj1tWebTHZPJC323WK8KwAe3W6XKkg2hzCdsKM"
-
 [proposals]
 notice = """\
 To create a proposal, first make a proposal on the [Saber Governance Forum](https://github.com/saber-hq/governance/issues/new?assignees=&labels=proposal&template=governance-proposal.md&title=%5BPROPOSAL%5D).
