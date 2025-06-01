@@ -25,7 +25,7 @@
       "type": "smart-wallet"
     }
   },
-  "description": "AMM for mean-reverting trading pairs on Solana",
+  "description": "AMM for mean-reverting trading pairs on Solana.",
   "gauge": {
     "gaugemeister": "28ZDtf6d2wsYhBvabTxUHTRT6MDxqjmqR7RMCp348tyU"
   },
@@ -52,7 +52,7 @@
   },
   "governance": {
     "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
-    "description": "AMM for mean-reverting trading pairs on Solana",
+    "description": "AMM for mean-reverting trading pairs on Solana.",
     "iconURL": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
     "name": "Saber",
     "network": "mainnet-beta",
