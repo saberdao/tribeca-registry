@@ -30,12 +30,12 @@ jobs:
             ${{ runner.os }}-modules-
       - run: yarn install
       - run: yarn generate
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          deploy_key: ${{ secrets.TRIBECA_REGISTRY_BUILD_DEPLOY_KEY }}
-          external_repository: TribecaHQ/tribeca-registry-build
-          publish_branch: master
-          publish_dir: ./data/
-          user_name: "github-actions[bot]"
-          user_email: "github-actions[bot]@users.noreply.github.com"
+      - name: Copy and commit files
+        run: |
+          if ! git diff-index --quiet HEAD; then
+            git config user.name "Tribeca Registry Bot"
+            git config user.email "bot@tribeca.so"
+            git add .
+            git commit -m "Update registry with latest data"
+            git push
+          fi
