@@ -46,6 +46,7 @@ const parseGovernance = async ({
   const prepopulatedTokenInfo = await getTokenInfo(govTokenAddress, network);
   const validatedIconURL =
     iconURL ?? token?.logoURI ?? prepopulatedTokenInfo?.logoURI;
+
   invariant(validatedIconURL);
   const tokenInfo: Partial<TokenInfo> & Pick<TokenInfo, "address" | "chainId"> =
     {

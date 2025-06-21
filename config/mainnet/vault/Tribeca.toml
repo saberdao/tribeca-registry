@@ -1,0 +1,35 @@
+[governance]
+network = "mainnet-beta"
+slug = "vault"
+name = "Vault"
+address = "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g"
+description = "Liquid staking token for Solana."
+icon-url = "https://gateway.irys.xyz/rpDbzdubbKbRaVpny3o1UYJGq7OI7e5rOmxyGrd2xAM"
+
+[governance.token]
+address = "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g"
+name = "Vault"
+symbol = "V"
+decimals = 6
+icon-url = "https://gateway.irys.xyz/rpDbzdubbKbRaVpny3o1UYJGq7OI7e5rOmxyGrd2xAM"
+
+[governance.parameters.governor]
+quorum-votes = 50_000_000_000000
+token-mint = "VAULTVXqi93aaq9FsyPKgdgp6Ge1H1HoSvNC4ZbqFDs"
+voting-delay = 86_400
+voting-period = 259_200
+timelock-delay = 86_400
+
+[governance.parameters.locker]
+max-stake-vote-multiplier = 10
+min-stake-duration = 86400
+max-stake-duration = 157_680_000 # 5 years
+proposal-activation-min-votes = 10_000_000_000000
+whitelist-enabled = true
+
+[links]
+website = "https://thevault.finance"
+app = "https://thevault.finance"
+discord = "https://discord.gg/aQC53CGgQY"
+github = "https://github.com/SolanaVault"
+twitter = "https://twitter.com/thevaultfinance"
