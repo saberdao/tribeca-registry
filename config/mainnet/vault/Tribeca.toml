@@ -7,7 +7,7 @@ description = "Liquid staking token for Solana."
 icon-url = "https://gateway.irys.xyz/rpDbzdubbKbRaVpny3o1UYJGq7OI7e5rOmxyGrd2xAM"
 
 [governance.token]
-address = "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g"
+address = "VAULTVXqi93aaq9FsyPKgdgp6Ge1H1HoSvNC4ZbqFDs"
 name = "Vault"
 symbol = "V"
 decimals = 6

@@ -135,7 +135,7 @@
     "address": "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g",
     "description": "Liquid staking token for Solana.",
     "govToken": {
-      "address": "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g",
+      "address": "VAULTVXqi93aaq9FsyPKgdgp6Ge1H1HoSvNC4ZbqFDs",
       "chainId": 101,
       "decimals": 6,
       "icon-url": "https://gateway.irys.xyz/rpDbzdubbKbRaVpny3o1UYJGq7OI7e5rOmxyGrd2xAM",
@@ -166,7 +166,7 @@
       },
       "slug": "vault",
       "token": {
-        "address": "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g",
+        "address": "VAULTVXqi93aaq9FsyPKgdgp6Ge1H1HoSvNC4ZbqFDs",
         "chainId": 101,
         "decimals": 6,
         "icon-url": "https://gateway.irys.xyz/rpDbzdubbKbRaVpny3o1UYJGq7OI7e5rOmxyGrd2xAM",
