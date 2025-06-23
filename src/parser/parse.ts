@@ -91,6 +91,7 @@ const parseGovernance = async ({
                 ),
                 whitelistEnabled:
                   parameters.locker?.["whitelist-enabled"] ?? false,
+                locker: parameters.locker?.locker ?? "",
               }
             : undefined,
         }

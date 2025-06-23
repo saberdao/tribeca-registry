@@ -23,6 +23,7 @@ export interface LockerParameters {
   maxStakeDuration: number;
   proposalActivationMinVotes: TokenQuantity;
   whitelistEnabled: boolean;
+  locker: string;
 }
 
 export type GovernanceConfig = Omit<

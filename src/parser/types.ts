@@ -47,6 +47,7 @@ export interface GovernanceRaw {
       ["max-stake-duration"]: number;
       ["proposal-activation-min-votes"]: number;
       ["whitelist-enabled"]?: boolean;
+      locker?: string;
     };
   };
 }

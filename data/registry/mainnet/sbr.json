@@ -39,6 +39,7 @@
         "votingPeriod": 259200
       },
       "locker": {
+        "locker": "8erad8kmNrLJDJPe9UkmTHomrMV3EW48sjGeECyVjbYX",
         "maxStakeDuration": 157680000,
         "maxStakeVoteMultiplier": 10,
         "minStakeDuration": 604800,

@@ -21,6 +21,7 @@ min-stake-duration = 604_800 # 7 days
 max-stake-duration = 157_680_000 # 5 years
 proposal-activation-min-votes = 10_000_000_000000 # 10M veSBR / 1M SBR
 whitelist-enabled = true
+locker = "8erad8kmNrLJDJPe9UkmTHomrMV3EW48sjGeECyVjbYX"
 
 [proposals]
 notice = """\

@@ -26,6 +26,7 @@ min-stake-duration = 86400
 max-stake-duration = 157_680_000 # 5 years
 proposal-activation-min-votes = 10_000_000_000000
 whitelist-enabled = true
+locker = "FqEk173TNsqe2maPozsaZk4AvaqpV3FKynyA5s7V4aNq"
 
 [links]
 website = "https://thevault.finance"
