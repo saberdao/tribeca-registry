@@ -1,0 +1,32 @@
+[governance]
+network = "mainnet-beta"
+slug = "test"
+name = "Test"
+address = "Hqh5SPspM33FHm2XxgY1pwEgohqx7fFFd65GtQ7FNB9A"
+description = "Test DAO for Testing."
+icon-url = "test"
+
+[governance.token]
+address = "4ZBdxqJAV4HwJubHYjJXYHzSjqVfsMTvPKyCmyceD5K1"
+name = "FAKE"
+symbol = "FAKEV"
+decimals = 6
+icon-url = "test"
+
+[governance.parameters.governor]
+quorum-votes = 400_000_000_000000
+token-mint = "4ZBdxqJAV4HwJubHYjJXYHzSjqVfsMTvPKyCmyceD5K1"
+voting-delay = 86_400
+voting-period = 259_200
+timelock-delay = 86_400
+
+[governance.parameters.locker]
+max-stake-vote-multiplier = 10
+min-stake-duration = 86400
+max-stake-duration = 157_680_000 # 5 years
+proposal-activation-min-votes = 10_000_000_000000
+whitelist-enabled = true
+locker = "F6EUKjSn3WTRtZXFBq9BQ83BDJ4AQxDQDUVj5VYyjvwq"
+
+[quarry.gauge]
+gaugemeister = "D9bLDwmGUdinRCV6QSRorRB9A2poQtKY3NNfZfAkTY6n"

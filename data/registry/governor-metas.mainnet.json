@@ -133,6 +133,66 @@
     "slug": "sbr"
   },
   {
+    "address": "Hqh5SPspM33FHm2XxgY1pwEgohqx7fFFd65GtQ7FNB9A",
+    "description": "Test DAO for Testing.",
+    "gauge": {
+      "gaugemeister": "D9bLDwmGUdinRCV6QSRorRB9A2poQtKY3NNfZfAkTY6n"
+    },
+    "govToken": {
+      "address": "4ZBdxqJAV4HwJubHYjJXYHzSjqVfsMTvPKyCmyceD5K1",
+      "chainId": 101,
+      "decimals": 6,
+      "icon-url": "test",
+      "logoURI": "test",
+      "name": "FAKE",
+      "symbol": "FAKEV"
+    },
+    "governance": {
+      "address": "Hqh5SPspM33FHm2XxgY1pwEgohqx7fFFd65GtQ7FNB9A",
+      "description": "Test DAO for Testing.",
+      "iconURL": "test",
+      "name": "Test",
+      "network": "mainnet-beta",
+      "parameters": {
+        "governor": {
+          "quorumVotes": "400000000000000",
+          "timelockDelay": 86400,
+          "votingDelay": 86400,
+          "votingPeriod": 259200
+        },
+        "locker": {
+          "locker": "F6EUKjSn3WTRtZXFBq9BQ83BDJ4AQxDQDUVj5VYyjvwq",
+          "maxStakeDuration": 157680000,
+          "maxStakeVoteMultiplier": 10,
+          "minStakeDuration": 86400,
+          "proposalActivationMinVotes": "10000000000000",
+          "whitelistEnabled": true
+        }
+      },
+      "slug": "test",
+      "token": {
+        "address": "4ZBdxqJAV4HwJubHYjJXYHzSjqVfsMTvPKyCmyceD5K1",
+        "chainId": 101,
+        "decimals": 6,
+        "icon-url": "test",
+        "logoURI": "test",
+        "name": "FAKE",
+        "symbol": "FAKEV"
+      }
+    },
+    "iconURL": "test",
+    "minter": {},
+    "name": "Test",
+    "quarry": {
+      "additionalRewarders": [],
+      "features": [],
+      "gauge": {
+        "gaugemeister": "D9bLDwmGUdinRCV6QSRorRB9A2poQtKY3NNfZfAkTY6n"
+      }
+    },
+    "slug": "test"
+  },
+  {
     "address": "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g",
     "description": "Liquid staking token for Solana.",
     "govToken": {
