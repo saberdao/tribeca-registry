@@ -36,5 +36,5 @@ github = "https://github.com/SolanaVault"
 twitter = "https://twitter.com/thevaultfinance"
 
 [quarry.gauge]
-gaugemeister = "D9bLDwmGUdinRCV6QSRorRB9A2poQtKY3NNfZfAkTY6n"
+gaugemeister = "4nnpAPU44wSVHz9iSCH4qwaVzcRzFqJCSZiQUbXSYwft"
 hidden = "true"
