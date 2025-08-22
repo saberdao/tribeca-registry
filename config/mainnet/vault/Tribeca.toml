@@ -34,3 +34,7 @@ app = "https://thevault.finance"
 discord = "https://discord.gg/aQC53CGgQY"
 github = "https://github.com/SolanaVault"
 twitter = "https://twitter.com/thevaultfinance"
+
+[quarry.gauge]
+gaugemeister = "D9bLDwmGUdinRCV6QSRorRB9A2poQtKY3NNfZfAkTY6n"
+hidden = "true"

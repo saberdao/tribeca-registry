@@ -195,6 +195,10 @@
   {
     "address": "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g",
     "description": "Liquid staking token for Solana.",
+    "gauge": {
+      "gaugemeister": "D9bLDwmGUdinRCV6QSRorRB9A2poQtKY3NNfZfAkTY6n",
+      "hidden": "true"
+    },
     "govToken": {
       "address": "VAULTVXqi93aaq9FsyPKgdgp6Ge1H1HoSvNC4ZbqFDs",
       "chainId": 101,
@@ -260,7 +264,16 @@
         "url": "https://thevault.finance"
       }
     },
+    "minter": {},
     "name": "Vault",
+    "quarry": {
+      "additionalRewarders": [],
+      "features": [],
+      "gauge": {
+        "gaugemeister": "D9bLDwmGUdinRCV6QSRorRB9A2poQtKY3NNfZfAkTY6n",
+        "hidden": "true"
+      }
+    },
     "slug": "vault"
   }
 ]
