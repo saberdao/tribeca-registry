@@ -196,7 +196,7 @@
     "address": "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g",
     "description": "Liquid staking token for Solana.",
     "gauge": {
-      "gaugemeister": "4nnpAPU44wSVHz9iSCH4qwaVzcRzFqJCSZiQUbXSYwft",
+      "gaugemeister": "HniSajyYDYEfdbNfW8L5Eq8W1pxt8XsYDgc6TNsx7t6x",
       "hidden": "true"
     },
     "govToken": {
@@ -270,7 +270,7 @@
       "additionalRewarders": [],
       "features": [],
       "gauge": {
-        "gaugemeister": "4nnpAPU44wSVHz9iSCH4qwaVzcRzFqJCSZiQUbXSYwft",
+        "gaugemeister": "HniSajyYDYEfdbNfW8L5Eq8W1pxt8XsYDgc6TNsx7t6x",
         "hidden": "true"
       }
     },
