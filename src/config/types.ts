@@ -69,6 +69,9 @@ export interface QuarryConfig {
   gauge?: {
     hidden?: boolean;
     gaugemeister: PublicKey;
+    gaugeType?: "stakepool";
+    stakepoolAddress?: string;
+    gaugePercentage?: number;
   };
 }
 
@@ -251,6 +254,19 @@ export interface GovernorConfig {
      * If true, Gauges will not be visible unless the page is explicitly visited.
      */
     hidden?: boolean;
+
+    /**
+     * Type of gauge. Used for stakepools
+     */
+    gaugeType?: "stakepool";
+    /**
+     * Address of the stakepool.
+     */
+    stakepoolAddress?: string;
+    /**
+     * Percentage of the stakepool to use for voting.
+     */
+    gaugePercentage?: number;
   };
 
   /**

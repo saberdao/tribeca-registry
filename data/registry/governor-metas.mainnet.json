@@ -270,8 +270,11 @@
       "additionalRewarders": [],
       "features": [],
       "gauge": {
+        "gauge-percentage": 10,
+        "gauge-type": "stakepool",
         "gaugemeister": "HniSajyYDYEfdbNfW8L5Eq8W1pxt8XsYDgc6TNsx7t6x",
-        "hidden": "true"
+        "hidden": "true",
+        "stakepool-address": "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC"
       }
     },
     "slug": "vault"
