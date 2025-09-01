@@ -37,7 +37,6 @@ twitter = "https://twitter.com/thevaultfinance"
 
 [quarry.gauge]
 gaugemeister = "HniSajyYDYEfdbNfW8L5Eq8W1pxt8XsYDgc6TNsx7t6x"
-hidden = "true"
 gauge-type = "stakepool"
 gauge-percentage = 10
 stakepool-address = "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC"

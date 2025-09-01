@@ -196,8 +196,7 @@
     "address": "F4qRAcMY5taxBT5hDyRTLrao9vUevwoeeS8kmdnVum3g",
     "description": "Liquid staking token for Solana.",
     "gauge": {
-      "gaugemeister": "HniSajyYDYEfdbNfW8L5Eq8W1pxt8XsYDgc6TNsx7t6x",
-      "hidden": "true"
+      "gaugemeister": "HniSajyYDYEfdbNfW8L5Eq8W1pxt8XsYDgc6TNsx7t6x"
     },
     "govToken": {
       "address": "VAULTVXqi93aaq9FsyPKgdgp6Ge1H1HoSvNC4ZbqFDs",
@@ -273,7 +272,6 @@
         "gauge-percentage": 10,
         "gauge-type": "stakepool",
         "gaugemeister": "HniSajyYDYEfdbNfW8L5Eq8W1pxt8XsYDgc6TNsx7t6x",
-        "hidden": "true",
         "stakepool-address": "Fu9BYC6tWBo1KMKaP3CFoKfRhqv9akmy3DuYwnCyWiyC"
       }
     },
