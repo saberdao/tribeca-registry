@@ -94,6 +94,10 @@ export interface QuarryRaw {
   };
 }
 
+export interface RedeemerRaw {
+  pda?: string;
+}
+
 interface GovernanceConfigDeprecatedRaw {
   /**
    * Settings for minting tokens as the DAO. Enabling this allows DAO members to create "mint" proposals which can be used for grants.
@@ -194,4 +198,6 @@ export interface GovernorConfigRaw extends GovernanceConfigDeprecatedRaw {
    * Various addresses.
    */
   addresses?: Record<string, string | KnownAddressRaw>;
+
+  redeemer?: RedeemerRaw;
 }

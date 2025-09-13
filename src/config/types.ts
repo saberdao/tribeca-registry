@@ -278,4 +278,8 @@ export interface GovernorConfig {
    * Known addresses.
    */
   addresses?: Record<string, TrackedAccountInfo>;
+
+  redeemer?: {
+    pda?: string;
+  };
 }

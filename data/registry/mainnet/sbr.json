@@ -129,5 +129,8 @@
     "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU",
     "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk"
   },
+  "redeemer": {
+    "pda": "EbWmefyxbSkd2eYSSaUpHvDC1t7Coy2yGqo3gyiVAiRJ"
+  },
   "slug": "sbr"
 }

@@ -250,5 +250,6 @@ export const parseGovernorConfig = async (
           };
         })
       : undefined,
+    redeemer: raw.redeemer,
   };
 };
