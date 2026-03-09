@@ -60,6 +60,3 @@ features = ["set-annual-rewards-rate"]
 
 [quarry.gauge]
 gaugemeister = "28ZDtf6d2wsYhBvabTxUHTRT6MDxqjmqR7RMCp348tyU"
-
-[redeemer]
-pda = "EbWmefyxbSkd2eYSSaUpHvDC1t7Coy2yGqo3gyiVAiRJ"
